@@ -7,3 +7,6 @@ I tried to keep all the code in order and made it in a way that prevents lag on 
 # BE WARNED:
 This datapack tweaks difficulty, game mechanics, and the like. Add to your world/server at your own risk.
 THIS DATAPACK TWEAKS DIFFICULTY TO BE VERY, VERY DIFFICULT, THIS IS ON PURPOSE. fork this project if you dont like the difficulty.
+
+# NOTES:
+This datapack is best used with Fresh Animations and Tissou's Zombie Pack.
